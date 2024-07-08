@@ -1,4 +1,12 @@
 nginx
+redis
+mongo
+mysql
+php
+tomcat
+fun-boot-mysql/mysql:5.7
+quay.io/minio/minio:RELEASE.2022-05-26T05-48-41Z
+fun-boot-redis/redis:6.2
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
