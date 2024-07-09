@@ -1,4 +1,3 @@
-python
 ubuntu:22.04
 ubuntu:20.04
 node:20.10.0
@@ -10,7 +9,7 @@ mysql
 mysql:5.7
 php
 tomcat
-quay.io/minio/minio:RELEASE.2022-05-26T05-48-41Z
+quay.io/minio/minio
 redis
 redis:6.2
 rabbitmq:3.9-management
