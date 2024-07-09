@@ -3,7 +3,8 @@ ubuntu:22.04
 ubuntu:20.04
 node:20.10.0
 node:20.15.0
-node:22.3.0node:18.20.3
+node:22.3.0
+node:18.20.3
 mongo
 mysql
 mysql:5.7
