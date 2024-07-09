@@ -1,15 +1,19 @@
 nginx
-redis
+Python
+ubuntu:22.04
+ubuntu:20.04
+node:20.10.0
+node:20.15.0
+node:22.3.0node:18.20.3
 mongo
 mysql
+mysql:5.7
 php
 tomcat
-fun-boot-mysql/mysql:5.7
 quay.io/minio/minio:RELEASE.2022-05-26T05-48-41Z
-fun-boot-redis/redis:6.2
-rabbitmq3.9:3.9-management
-#支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
+redis
+redis:6.2
+rabbitmq:3.9-management
+elasticsearch:8.14.2
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
